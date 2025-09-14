@@ -1,0 +1,15 @@
+int main() { return 0; }
+[main] starting up
+parent: wait()
+child: fork()
+exec changed my life
+I remain calm
+please maintain order
+and remain focused
+welcome to the domain
+main street has zombies
+this is my m-a-i-n course
+mainframe sounds fancy
+this line has nothing
+another plain line
+end of file; nothing remains
